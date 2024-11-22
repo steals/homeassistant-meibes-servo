@@ -1,0 +1,14 @@
+open_servo_drive:
+  description: "Open the servo drive (to position 10)"
+  fields: {}
+
+close_servo_drive:
+  description: "Close the servo drive (to position 0)"
+  fields: {}
+
+set_servo_drive_position:
+  description: "Set the position of the servo drive (0 to 10)"
+  fields:
+    position:
+      description: "Position of the servo drive"
+      example: 5

@@ -1,0 +1,9 @@
+{
+  "domain": "servo_blind",
+  "name": "Meibes Servo",
+  "version": "1.0",
+  "documentation": "https://github.com/steals/homeassitant-meibes-servo.git",
+  "dependencies": [],
+  "codeowners": ["@steals"],
+  "requirements": []
+}
