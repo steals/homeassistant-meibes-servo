@@ -1,5 +1,5 @@
 {
-  "domain": "servo_blind",
+  "domain": "meibes_servo",
   "name": "Meibes Servo",
   "version": "1.0",
   "documentation": "https://github.com/steals/homeassitant-meibes-servo.git",
