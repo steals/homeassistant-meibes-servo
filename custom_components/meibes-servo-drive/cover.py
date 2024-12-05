@@ -26,7 +26,7 @@ class MeibesServoDrive(CoverEntity):
         """Get current position from input_number state."""
         state = self.hass.states.get(self._position_entity)
         if state:
-            self._position = int(state.state)
+            self._position = int(float(state.state))
         return self._position
 
     @property
